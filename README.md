@@ -15,5 +15,6 @@ after installing conda, in command window:
 
 # Result by starting data_loader.py script
 <img width="1979" height="481" alt="изображение" src="https://github.com/user-attachments/assets/ce52d5e1-2e25-4acd-b289-6f9b1425a6cc" />
-# Convert data to float64, save DataFrame to .csv
+
+# Data conversion to float64, save DataFrame to spectrum_data.csv
 <img width="763" height="737" alt="изображение" src="https://github.com/user-attachments/assets/c37d6d33-7eb4-4ea1-a2b5-b756fa716549" />
