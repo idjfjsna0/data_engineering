@@ -15,11 +15,14 @@ try:
         raw_data = raw_data.dropna(how="all")  # Delete all-NaN rows
 
         for col in raw_data.columns:
-            raw_data[col] = pd.to_numeric(raw_data[col], errors="coerce")  #
+            raw_data[col] = pd.to_numeric(raw_data[col], errors="coerce")
 
         raw_data = raw_data.dropna()  # Delete rows, which contains NaN
+
         print("\nFirst 10 rows of dataset:")
         print(raw_data.head(10))
+        print("Data types of columns:")
+        print(raw_data.dtypes)
     else:
         print("No data or wrong format")
 
