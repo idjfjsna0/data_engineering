@@ -1,3 +1,7 @@
 .vscode/
 trying_de/
 !trying_de/pyproject.toml
+api_example
+!api_example/api_reader.py
+!api_example/kanye_quotes.csv
+!api_example/README.md
