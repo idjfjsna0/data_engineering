@@ -1,12 +1,12 @@
 # Описание скрипта
 Скрипт собирает информацию об абитуриентах магистерских программ института ИВИТШ.
 
-[**12.04.01 «Инженерия цифровых систем»**](https://abit.itmo.ru/rating/master/budget/2305)
-[**16.04.01 «Световодная фотоника и программируемая электроника»**](https://abit.itmo.ru/rating/master/budget/2254)
-[**12.04.02 «Прикладная оптика»**](https://abit.itmo.ru/rating/master/budget/2306)
-[**16.04.03 «Транспортировка природного газа»**](https://abit.itmo.ru/rating/master/budget/2310)
-[**15.04.02 «Транспортировка природного газа»**](https://abit.itmo.ru/rating/master/budget/2307)
-[**16.04.03 «Энергоэффективные инженерные системы и технологии СПГ»**](https://abit.itmo.ru/rating/master/budget/2256)
+[**12.04.01 «Инженерия цифровых систем»**](https://abit.itmo.ru/rating/master/budget/2305)  
+[**16.04.01 «Световодная фотоника и программируемая электроника»**](https://abit.itmo.ru/rating/master/budget/2254)  
+[**12.04.02 «Прикладная оптика»**](https://abit.itmo.ru/rating/master/budget/2306)  
+[**16.04.03 «Транспортировка природного газа»**](https://abit.itmo.ru/rating/master/budget/2310)  
+[**15.04.02 «Транспортировка природного газа»**](https://abit.itmo.ru/rating/master/budget/2307)  
+[**16.04.03 «Энергоэффективные инженерные системы и технологии СПГ»**](https://abit.itmo.ru/rating/master/budget/2256)  
 [**27.04.08 «Стратегическое управление интеллектуальной собственностью»**](https://abit.itmo.ru/rating/master/budget/2312)
 
 ## Инструкция
@@ -24,3 +24,4 @@
 ## Пример работы скрипта:
 
 <img width="1104" height="1124" alt="изображение" src="https://github.com/user-attachments/assets/70095dbd-cc42-45d7-aed4-5150744cd7b0" />
+
