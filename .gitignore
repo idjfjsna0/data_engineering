@@ -8,3 +8,5 @@ api_example
 parser_example
 !parser_example/parser.py
 !parser_example/README.md
+notebooks
+!notebooks/EDA.ipynb
