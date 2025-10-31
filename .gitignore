@@ -1,12 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+*.egg-info/
+
+# IDE / editors
 .vscode/
-trying_de/
-!trying_de/pyproject.toml
-api_example
+.idea/
+
+# Environment / secrets
+auth.env
+creds.db
+*.env
+
+# Databases
+*.db
+database/
+
+# Poetry lock files (если не нужен)
+poetry.lock
+
+# System
+.DS_Store
+Thumbs.db
+
+# Ignore everything in api_example except needed files
+api_example/*
+!api_example/README.md
 !api_example/api_reader.py
 !api_example/kanye_quotes.csv
-!api_example/README.md
-parser_example
-!parser_example/parser.py
+
+# Ignore everything in parser_example except needed files
+parser_example/*
 !parser_example/README.md
-notebooks
-!notebooks/EDA.ipynb
+!parser_example/parser.py
+
+# Ignore everything in trying_de except pyproject.toml
+trying_de/*
+!trying_de/pyproject.toml
+
+# Keep notebooks fully
+!notebooks/
