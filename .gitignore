@@ -17,7 +17,7 @@ creds.db
 
 # Databases
 *.db
-database/
+database/*
 !database/wwdb.py
 
 # Poetry lock files (если не нужен)
