@@ -18,6 +18,7 @@ creds.db
 # Databases
 *.db
 database/
+!database/wwdb.py
 
 # Poetry lock files (если не нужен)
 poetry.lock
@@ -40,6 +41,9 @@ parser_example/*
 # Ignore everything in trying_de except pyproject.toml
 trying_de/*
 !trying_de/pyproject.toml
+!data_loader.py
+!trying_de/poetry.lock
+!README.md
 
 # Keep notebooks fully
 !notebooks/
